@@ -115,3 +115,4 @@ text_page(sum_mod2, title="Model 2 (subset) — Summary Statistics")
 dev.off()
 
 cat("\nSaved PDF report to:", normalizePath(pdf_path), "\n")
+
